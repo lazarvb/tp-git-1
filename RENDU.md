@@ -52,6 +52,8 @@ stash@{0}: WIP on master: 14848cb Revert "ex7: ajoute une ligne par erreur"
 
 - Pourquoi annuler un commit plutôt que l'effacer de l'historique ?
 
+Le but de Git est de garder une trace de tout, donc mieux vaut toucher à l'historique le moins possible.
+
 ## Ex8
 
 - git pull = git fetch + git merge
