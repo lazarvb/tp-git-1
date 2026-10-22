@@ -1,4 +1,4 @@
-# MENU
+# Today's menu
 
 Pâtes au Git en entrée.
 
