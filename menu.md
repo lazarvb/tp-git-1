@@ -1,4 +1,4 @@
-# MENU
+# Menu du jour
 
 Pâtes au Git en entrée.
 
